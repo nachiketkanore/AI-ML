@@ -1,5 +1,7 @@
 # AI-ML
 
+https://github.com/mrgloom/Kaggle-Computer-Vision-Competitions-List
+
 my structure of ML project:
 [
 	input = []
